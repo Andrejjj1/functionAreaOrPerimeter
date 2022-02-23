@@ -7,3 +7,7 @@ function areaOrPerimeter(l, w) {
     
      }
  };
+
+areaOrPerimeter(2,2)
+areaOrPerimeter(2,3)
+areaOrPerimeter(11,31)
